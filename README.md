@@ -34,6 +34,7 @@
 | [0189-rotate-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3884-first-matching-character-from-both-ends](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [3884-first-matching-character-from-both-ends](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 <!---LeetCode Topics End-->
