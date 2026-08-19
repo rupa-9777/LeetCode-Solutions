@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -77,4 +78,12 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
