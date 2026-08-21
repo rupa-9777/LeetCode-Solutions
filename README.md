@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -53,6 +54,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -74,6 +76,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
