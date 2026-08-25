@@ -24,6 +24,7 @@
 | [1512-number-of-good-pairs](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3895-count-digit-appearances](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
@@ -34,12 +35,14 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3895-count-digit-appearances](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Two Pointers
@@ -72,6 +75,7 @@
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,4 +106,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Number Theory
+|  |
+| ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
