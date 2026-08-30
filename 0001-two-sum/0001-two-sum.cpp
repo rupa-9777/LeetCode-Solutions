@@ -1,14 +1,14 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
+      unordered_map <int,int> freq;
       for(int i=0;i<nums.size();i++){
-        for(int j=i+1;j<nums.size();j++){
-            if(nums[i]+nums[j]==target){
-                return {i,j};
-            }
+        int comp = target - nums[i];
+        if(freq.count(comp)){
+            return {freq[comp],i};
         }
-      }    
-    return {};
-        
+        freq[nums[i]]=i;
+      }
+    return {};   
     }
 };
