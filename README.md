@@ -52,6 +52,7 @@
 | [0189-rotate-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0136-single-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -151,4 +153,5 @@
 | ------- |
 | [0231-power-of-two](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
