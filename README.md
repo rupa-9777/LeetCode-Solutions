@@ -26,6 +26,7 @@
 | [1512-number-of-good-pairs](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -53,6 +54,7 @@
 | [2235-add-two-integers](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
