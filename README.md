@@ -62,6 +62,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3099-harshad-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3099-harshad-number) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3895-count-digit-appearances](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
