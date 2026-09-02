@@ -33,6 +33,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@
 | [3099-harshad-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3099-harshad-number) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
