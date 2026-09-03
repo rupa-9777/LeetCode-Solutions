@@ -69,6 +69,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3783-mirror-distance-of-an-integer](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
