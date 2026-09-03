@@ -73,6 +73,7 @@
 | [3895-count-digit-appearances](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3959-check-good-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,4 +173,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [3959-check-good-integer](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3959-check-good-integer) |
 <!---LeetCode Topics End-->
