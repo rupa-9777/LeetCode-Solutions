@@ -1,26 +1,16 @@
 class Solution {
 public:
-    int Sum(int n){
-        int sum = 0;
+    
+    bool checkGoodInteger(int n) {
+       int sum =0; int ssum =0;
+       
         while(n>0){
             int digit = n % 10;
             sum += digit;
+            ssum += digit*digit;
             n /= 10;
-        }
-    return sum;
-    }
-    int SSum(int n){
-        int sum = 0;
-        while(n>0){
-            int digit = n % 10;
-            sum += digit*digit;
-            n /= 10;
-        }
-    return sum;
-    }
-    bool checkGoodInteger(int n) {
-        
-        return SSum(n) - Sum(n) >= 50;
+        } 
+        return ssum-sum >= 50;
     
         
     }
