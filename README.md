@@ -70,6 +70,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
@@ -146,6 +147,7 @@
 | ------- |
 | [2427-number-of-common-factors](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Enumeration
 |  |
 | ------- |
