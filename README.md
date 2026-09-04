@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -119,6 +120,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
