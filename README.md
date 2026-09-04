@@ -68,6 +68,7 @@
 | [2235-add-two-integers](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2652-sum-multiples) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Euclidean Algorithm
 |  |
