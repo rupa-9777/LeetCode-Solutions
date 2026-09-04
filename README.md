@@ -36,6 +36,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
+| [3903-smallest-stable-index-i](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [3903-smallest-stable-index-i](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
