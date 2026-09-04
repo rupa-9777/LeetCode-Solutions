@@ -66,6 +66,7 @@
 | [1512-number-of-good-pairs](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -163,6 +164,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
