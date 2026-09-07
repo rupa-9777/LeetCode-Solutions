@@ -66,6 +66,7 @@
 | [0342-power-of-four](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
@@ -199,6 +200,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [3894-traffic-signal-color](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3959-check-good-integer](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3959-check-good-integer) |
 ## Greedy
