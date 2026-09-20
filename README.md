@@ -144,6 +144,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -180,6 +181,7 @@
 | [0344-reverse-string](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
@@ -243,6 +245,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Stack
 |  |
 | ------- |
