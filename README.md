@@ -43,6 +43,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -64,6 +65,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -151,6 +153,7 @@
 | [1748-sum-of-unique-elements](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
