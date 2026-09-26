@@ -271,4 +271,8 @@
 | [0209-minimum-size-subarray-sum](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
