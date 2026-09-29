@@ -32,6 +32,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0977-squares-of-a-sorted-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -129,6 +130,7 @@
 | [0283-move-zeroes](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
@@ -152,6 +154,7 @@
 | [0242-valid-anagram](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0977-squares-of-a-sorted-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
