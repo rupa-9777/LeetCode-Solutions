@@ -23,6 +23,7 @@
 | [0189-rotate-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0136-single-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## String
 |  |
