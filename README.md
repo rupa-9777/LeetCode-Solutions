@@ -82,6 +82,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -184,6 +185,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -225,6 +227,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Heap (Priority Queue)
