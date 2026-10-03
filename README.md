@@ -97,6 +97,7 @@
 | [0066-plus-one](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
@@ -258,6 +259,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -292,6 +294,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
