@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0326-power-of-three) |
