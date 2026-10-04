@@ -105,6 +105,7 @@
 | [0412-fizz-buzz](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -151,6 +152,7 @@
 | [0344-reverse-string](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -211,6 +213,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
