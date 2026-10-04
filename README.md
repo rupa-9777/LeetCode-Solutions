@@ -102,6 +102,7 @@
 | [0326-power-of-three](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
