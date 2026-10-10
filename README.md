@@ -121,6 +121,7 @@
 | [2443-sum-of-number-and-its-reverse](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2582-pass-the-pillow](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3099-harshad-number) |
@@ -311,6 +312,7 @@
 | [0412-fizz-buzz](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2582-pass-the-pillow](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
 | [3894-traffic-signal-color](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 | [3959-check-good-integer](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3959-check-good-integer) |
 ## Greedy
