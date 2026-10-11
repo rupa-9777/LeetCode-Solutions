@@ -165,6 +165,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
@@ -255,6 +256,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3794-reverse-string-prefix](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
@@ -330,6 +332,7 @@
 | [0605-can-place-flowers](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Stack
 |  |
 | ------- |
