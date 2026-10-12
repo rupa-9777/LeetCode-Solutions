@@ -71,6 +71,7 @@
 | [3895-count-digit-appearances](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
