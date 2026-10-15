@@ -56,6 +56,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -345,6 +346,7 @@
 | [0605-can-place-flowers](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Stack
 |  |
