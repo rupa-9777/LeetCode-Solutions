@@ -43,6 +43,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
