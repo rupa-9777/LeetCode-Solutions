@@ -106,6 +106,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -278,6 +279,7 @@
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2418-sort-the-people](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
