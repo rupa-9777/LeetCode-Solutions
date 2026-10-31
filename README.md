@@ -53,6 +53,7 @@
 | [1512-number-of-good-pairs](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1732-find-the-highest-altitude](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -189,6 +190,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
