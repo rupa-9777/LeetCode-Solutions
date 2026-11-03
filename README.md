@@ -133,6 +133,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
@@ -346,6 +347,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2169-count-operations-to-obtain-zero](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2460-apply-operations-to-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2582-pass-the-pillow](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
