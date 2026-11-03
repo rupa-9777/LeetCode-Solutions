@@ -62,6 +62,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -279,6 +280,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -391,4 +393,8 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
