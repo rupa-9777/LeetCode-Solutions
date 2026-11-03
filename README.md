@@ -57,6 +57,7 @@
 | [1748-sum-of-unique-elements](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
