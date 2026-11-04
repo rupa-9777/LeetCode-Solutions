@@ -140,6 +140,7 @@
 | [2427-number-of-common-factors](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2525-categorize-box-according-to-criteria](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2582-pass-the-pillow](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2652-sum-multiples) |
