@@ -144,6 +144,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2544-alternating-digit-sum](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2582-pass-the-pillow](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rupa-9777/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
